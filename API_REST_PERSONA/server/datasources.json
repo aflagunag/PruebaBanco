@@ -1,0 +1,19 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "PERSONA": {
+    "host": "127.0.0.1",
+    "port": 3306,
+    "url": "",
+    "database": "PERSONA",
+    "password": "",
+    "name": "PERSONA",
+    "user": "root",
+    "connector": "mysql",
+    "connectTimeout": 200000,
+    "acquireTimeout": 200000,
+    "timeZone": "UTC-05:00"
+  }
+}
